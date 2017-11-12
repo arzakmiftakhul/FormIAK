@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FormIAK</string>
+    <string-array name="pendidikan">
+        <item>SD</item>
+        <item>SMP</item>
+        <item>SMA</item>
+        <item>Perguruan Tinggi</item>
+    </string-array>
 </resources>
